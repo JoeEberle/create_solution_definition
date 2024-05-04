@@ -1,12 +1,12 @@
 
-# Create Solution Definition - A utility to create a new PNG sign for every solution.
-A utility to create a new PNG sign for every solution.
+# Create Solution Definition - A utility to create a new definition  for every solution.
+A utility to create a new definition  for every solution.
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Create Solution Definition** - an example for your projects
 
-A utility to create a new PNG sign for every solution.
+A utility to create a new definition  for every solution.
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Create Solution Definition** solution repository, foll
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](create_solution_definition.png)  <br>
+    ## Deliverables or Figures![additional_image](create_solution_definition.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
