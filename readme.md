@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Create Solution Definition - A utility to create a new definition  for every solution.
 A utility to create a new definition  for every solution.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Create Solution Definition** - an example for your pro
 A utility to create a new definition  for every solution.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
