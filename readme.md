@@ -46,4 +46,7 @@ To get started with the **Create Solution Definition** solution repository, foll
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](create_solution_definition.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](create_solution_definition.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
