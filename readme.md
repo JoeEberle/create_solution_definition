@@ -39,11 +39,8 @@ To get started with the **Create Solution Definition** solution repository, foll
  ![additional_image](create_solution_definition.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
