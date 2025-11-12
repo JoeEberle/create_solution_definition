@@ -4,21 +4,11 @@
 
 ## A utility to create a new definition  for every solution.
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Create Solution Definition** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Create Solution Definition** 
 
 A utility to create a new definition  for every solution.
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
